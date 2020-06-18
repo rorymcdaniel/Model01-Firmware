@@ -1,3 +1,5 @@
+This fork simply switches the shift and the cmd on the left side and the shift and the alt on the right side. I think it is much easier to use this way. Nothing else has been modified... yet.
+
 # Keyboardio Model 01 Firmware
 
 _The default firmware for the Keyboardio Model 01_
